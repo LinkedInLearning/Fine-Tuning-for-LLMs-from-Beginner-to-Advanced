@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Fine-Tuning for LLMs: from Beginner to Advanced
+This is the repository for the LinkedIn Learning course `Fine-Tuning for LLMs: from Beginner to Advanced`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
