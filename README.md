@@ -60,9 +60,9 @@ Colab's free tier has usage limits, and idle sessions disconnect. If you lose yo
 
 Kesha Williams
 
-Kesha Williams is an AWS AI Hero, LinkedIn Top Voice, TED speaker, and the founder of Keysoft, an enterprise AI strategy, engineering, and education consultancy. With 30 years in tech, she has taught AI to more than five million learners worldwide.
+Kesha Williams is an AWS AI Hero and the founder of Keysoft, an enterprise AI strategy, engineering, and education consultancy.
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kesha-williams).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
