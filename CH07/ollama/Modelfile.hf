@@ -1,0 +1,18 @@
+# Use the instructor's published model with the course chat template.
+# Run from the CH07 folder:
+#   ollama pull hf.co/KWillz/ridgeline-support-gguf
+#   ollama create ridgeline -f ollama/Modelfile.hf
+FROM hf.co/KWillz/ridgeline-support-gguf
+
+TEMPLATE """{{ if .System }}<|im_start|>system
+{{ .System }}<|im_end|>
+{{ end }}{{ if .Prompt }}<|im_start|>user
+{{ .Prompt }}<|im_end|>
+{{ end }}<|im_start|>assistant
+{{ .Response }}<|im_end|>
+"""
+
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"
+PARAMETER temperature 0
+PARAMETER num_ctx 2048
