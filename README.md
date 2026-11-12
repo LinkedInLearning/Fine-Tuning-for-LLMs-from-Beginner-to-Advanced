@@ -58,5 +58,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced-54555389/fine-tune-an-llm-to-triage-support-tickets?u=104
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQHD5xkjQE7Mvw/learning-public-crop_675_1200/B4DaHHY1RjJMAg-/0/1794346539290?e=2147483647&v=beta&t=ytdSgmNswpaYLOKQkUldSM3ZyxpOExC2N7sgMb_BEqQ
