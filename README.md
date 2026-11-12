@@ -7,6 +7,14 @@ This is the repository for the LinkedIn Learning course `Fine-Tuning Your AI Mod
 
 Fine-tuning lets you adapt an open-weight language model to your own task, data, and brand voice. In this course, you'll learn a complete modern fine-tuning workflow by building a support-ticket assistant for Ridgeline Outfitters, a fictional outdoor gear retailer. You'll prepare and validate training data, fine-tune a model with LoRA on a free GPU, score it against the base model, and run your finished model on your own laptop with Ollama. Along the way, you'll practice prompting, synthetic data generation, and evaluation design in hands-on exercises. By the end, you'll know when fine-tuning beats prompting alone and how to deliver a fine-tuned model with measurable business value.
 
+## Learning Objectives
+
+- Determine when fine-tuning is the appropriate solution compared to prompting or retrieval-augmented generation (RAG).
+- Prepare and validate training datasets for LLM fine-tuning, including generating synthetic examples and formatting data correctly.
+- Fine-tune an open-weight language model using LoRA and modern tools such as Hugging Face, PEFT, TRL, and Unsloth.
+- Evaluate fine-tuned models using baseline comparisons, structured evaluation rubrics, and LLM-as-a-judge techniques.
+- Deploy and integrate a fine-tuned model into a practical business workflow.
+
 ## Instructions
 This repository has a folder for each chapter of the course that includes code: `CH03` through `CH07`.
 
